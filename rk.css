@@ -1,0 +1,429 @@
+iframe {
+    width: 950px;
+    height: 450px;
+  }
+  body{
+    background-color: black;
+    color:;
+  }
+
+  .backgroundColor {
+    background-color:black;
+  }
+
+  .hero-discritopns {
+    max-width: 500px;
+  }
+
+  
+  .PFont {
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 1.8;
+    color: white;
+  }
+
+  .faq h2 {
+    color: #fff;
+  }
+
+  .faq,
+  .HeroBook {
+    background-color:black;
+  }
+
+  .HeroBook h1 {
+    font-family: 'PT Serif', serif !important;
+    font-size: 2.9rem;
+    color: #fff;
+    line-height: 1.3;
+    letter-spacing: 0;
+    font-weight: 700;
+  }
+
+  .HeroBook .PFont {
+    color: #fff;
+  }
+
+  .HeroBook .btn.btn-primary {
+    border: 3px solid #080808;
+    color: black;
+    background-color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 10px;
+    letter-spacing: .2px;
+    transition: .5s;
+  }
+
+  .HeroBook .btn.btn-primary:hover {
+    background-color:rgb(43, 40, 40);
+    color: white;
+  }
+
+  .hero_img {
+    padding-right: 30px;
+    position: relative;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    display: inline-block;
+    
+  }
+
+
+  .hero_img img {
+    position: relative;
+    z-index: 2;
+    border-radius: 2px;
+    box-shadow: 22px 26px 36px 0 rgb(33 52 105 / 28%);
+  }
+
+  .btn.btn-primary {
+    background-color:white;
+    border: black;
+    padding: 10px 22px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    transition: .5s;
+    border-radius: 0;
+  }
+
+  .btncarosel {
+    background-color: #ea787e;
+    padding: 26px 22px;
+    border-radius: 2px;
+  }
+
+  .accordion-button:not(.collapsed) {
+    background-color: transparent;
+    box-shadow: none;
+    border-bottom: none;
+  }
+
+  .accordion-button:not(.collapsed),
+  .accordion-button {
+    font-family: 'Poppins', sans-serif !important;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .faq .accordion .accordion-item {
+    color: #000;
+    box-shadow: none;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    position: relative;
+    background: #fff;
+    transition: background .4s ease, border-color .4s;
+    box-shadow: 2px 0px 15px 5px rgb(1 6 33 / 5%);
+  }
+
+  .accordion-button:focus {
+    box-shadow: none;
+  }
+
+  .H2 {
+    font-family: 'PT Serif', serif !important;
+    font-size: 2.35rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color:white;
+    letter-spacing: 0;
+  }
+
+  .catalog {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .catalog .H2 {
+    color: black;
+
+    
+  }
+
+ 
+
+  .MaxWidthSection {
+    max-width: 356px;
+  }
+
+  .Textpink {
+    color:black;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 16px;
+    font-weight: 500;
+    transition: .5s;
+  }
+
+  .Textpink i {
+    font-size: 14px;
+  }
+
+  .btn-check:focus+.btn,
+  .btn:focus {
+    box-shadow: none;
+  }
+
+  .achieve .card-body {
+    box-shadow: 2px 0px 15px 5px rgb(1 6 33 / 6%);
+    border: none;
+    border-radius: 5px;
+  }
+
+  .min50 {
+    margin-top: -50px;
+  }
+
+  .min155 {
+    margin-top: -155px;
+  }
+
+  .catalog img.img-fluid,
+  .ourproduct .card {
+    border-radius: 9px;
+    box-shadow: 22px 26px 36px 0 rgb(33 52 105 / 28%);
+    color: #000; 
+  }
+
+  .achieve h5 {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 800;
+    line-height: 1.4;
+  }
+
+  .achieve .card-text {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.8;
+  }
+
+  .padding2 {
+    padding: 2.5rem;
+  }
+
+  .BtnBook {
+    cursor: none;
+    pointer-events: none;
+    margin-bottom: 0;
+  }
+
+  .BtnBook .vc_btn3.vc_btn3-color-grey.vc_btn3-style-modern {
+    cursor: pointer;
+    pointer-events: all;
+    background-color: #ea787e !important;
+    border: #ea787e !important;
+    padding: 10px 30px !important;
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    letter-spacing: 1px !important;
+    transition: .5s;
+    border-radius: 0 !important;
+    color: #fff;
+    border: 3px solid #fff !important;
+    background-image: none;
+    background-image: none;
+    background-image: none;
+    background-repeat: none;
+  }
+
+  .BtnBook .vc_btn3.vc_btn3-color-grey.vc_btn3-style-modern:hover {
+    opacity: .8;
+    background-color:black;
+    border: 3px solid #ea787e !important;
+    color: #ea787e !important;
+  }
+
+  .card.cardAbout {
+    background:black;
+    /* padding: 20px 20px 30px; */
+    /* margin-bottom: 20px; */
+  }
+
+  .WidgetTitle {
+    font-family: 'PT Sans', sans-serif !important;
+    font-weight: 500;
+    color: #060606;
+    font-size: 23px;
+    line-height: 1.48em;
+    margin: 25px 0 10px;
+    text-transform: capitalize;
+    margin-top: 0 !important;
+    margin-bottom: 30px !important;
+  }
+
+  .TitleName {
+    -webkit-box-shadow: inset 0 -8px 0 #ffbea5;
+    -moz-box-shadow: inset 0 -8px 0 #ffbea5;
+    box-shadow: inset 0 -8px 0 #ffbea5;
+    font-family: 'Poppins' !important;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    color: #3c3131;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    box-shadow: inset 0 -8px 0 #ffbea5;
+    line-height: 18px;
+    transition: .5s;
+    width: 220px;
+    margin: auto;
+  }
+
+  .author img.img-fluid {
+    border-radius: 10px;
+    position: relative;
+  }
+
+  .author .col-md-6 {
+    position: relative;
+  }
+
+  .author .colImg img {
+    z-index: 2;
+  }
+
+  .author .colImg::before {
+    content: "";
+    position: absolute;
+    right: 0;
+    left: 100px;
+    top: -10px;
+    z-index: 1;
+    border: 3px dotted white;
+    border-radius: 10px;
+    height: 110%;
+    width: 80%;
+  }
+
+  @-webkit-keyframes float {
+    0% {
+      box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+      transform: translatey(0px);
+    }
+
+    50% {
+      box-shadow: 0 25px 15px 0px rgba(0, 0, 0, 0.2);
+      transform: translatey(-20px);
+    }
+
+    100% {
+      box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+      transform: translatey(0px);
+    }
+  }
+
+  @keyframes float {
+    0% {
+      transform: translatey(0px);
+    }
+
+    50% {
+      transform: translatey(-20px);
+    }
+
+    100% {
+      transform: translatey(0px);
+    }
+  }
+
+  .author h3.H2 {
+    /* font-family: 'Poppins', sans-serif !important; */
+    font-size: 26px;
+    font-weight: 600;
+    letter-spacing: .5px;
+    color: white;
+  }
+
+  .catalog .titleH5 {
+    color: #869072;
+  }
+
+  .titleH5 {
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color:white;
+    display: inline-block;
+  }
+
+  .author .PFont {
+    max-width: 450px;
+    /* font-size: 16px; */
+    font-weight: 300;
+  }
+
+  /*Divider  */
+  .faq .divider-traingle {
+    border-color: #fff;
+  }
+
+  .divider-traingle {
+    width: 200px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    opacity: 0.8;
+    position: relative;
+    display: inline-block;
+  }
+
+  .divider-traingle:before {
+    position: absolute;
+    content: "";
+    width: 18px;
+    height: 18px;
+    background-color: #ebdfdf;
+    top: -9px;
+    opacity: 0.5;
+    right: 50%;
+    transform: rotate(45deg);
+  }
+
+  .divider-traingle:after {
+    position: absolute;
+    content: "";
+    width: 18px;
+    height: 18px;
+    background: #f8f1f2;
+    top: -9px;
+    left: 45%;
+    opacity: 0.5;
+    transform: rotate(45deg);
+  }
+
+  .faq .divider-traingle::after,
+  .faq .divider-traingle::before {
+    background: #fff;
+  }
+
+  /* end */
+  /* Icons */
+  .author .Icons i {
+    font-size: 16px;
+    padding: 10px;
+    color: #fff;
+    border-radius: 30px;
+    background-color:black;
+    transition: .5s;
+  }
+
+  .author .Icons i:hover {
+    opacity: .7;
+  }
+
+  .author .Icons i.fa-facebook-f {
+    padding: 10px 13px;
+  }
